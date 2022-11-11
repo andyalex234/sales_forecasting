@@ -376,7 +376,7 @@ class Manipulate:
             return labelers
 
         except Exception as e:
-            print("Failed to Label Encode columns")
+            print(f"Failed to Label Encode columns because of: {e}")
 
     def create_date(self, name:str='Date',columns: list=['Year','Month','Day']) -> None:
         date_column = []
