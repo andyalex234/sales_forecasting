@@ -53,7 +53,7 @@ pip install -r requirements.txt
 - `Notebooks` - Contains the EDA, preporcessor
 - `Models` - Conatins machine learning models
 - `Scripts` - Contains modules that are used in the Notebooks and some utility functions as well
-- `Data' - Conatains the csv or `.dvc.csv` file that we're going to use in this project
+- `Data` - Conatains the csv or `.dvc.csv` file that we're going to use in this project
 - `test` - Contains the unit and integrations tests of the project
 
 ## LICENCE
